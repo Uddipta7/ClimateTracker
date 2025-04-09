@@ -28,7 +28,7 @@ Recharts (Beautiful data visualization and charts)
 
 EmailJS (Contact form email integration without a backend)
 
-Backend (To be implemented later)
+Backend 
 
 Node.js & Express.js (RESTful API development)
 
