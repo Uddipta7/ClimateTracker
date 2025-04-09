@@ -36,5 +36,12 @@ MongoDB (Database for storing climate records)
 
 OpenWeatherMap API (Fetching real-time weather data)
 
+📸 Screenshots
+
+![Screenshot 2025-04-09 230546](https://github.com/user-attachments/assets/68a6694b-cc64-4f6b-b4c3-d43518010307)
+![image](https://github.com/user-attachments/assets/bdbc43e7-5f32-4692-bc8a-00d3fe345611)
+
+
+
 
 
